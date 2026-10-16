@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+*.pem
+*.key
+*.p12
+*.pfx
+muzzle.json
+encryption.txt
